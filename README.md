@@ -1,29 +1,27 @@
-# Hello, I'm ShaderHex 👋
+<h1 align="center">Hi 👋, I'm ShaderHex</h1>
+<h3 align="center">A passionate software developer</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building **C++** and **Rust** applications, especially in the realm of **game development**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaderhex&label=Profile%20views&color=0e75b6&style=flat" alt="shaderhex" /> </p>
 
-## 👨‍💻 About Me
-- 🎮 I’m currently working on a **game engine** that I plan to make open-source.
-- 💻 I primarily use **C++** and **Rust**, with a focus on **OpenGL** development using **GLFW** and **GLAD**.
-- 🚀 I love contributing to the open-source community and learning new technologies.
-- 🎮 Outside of coding, I enjoy gaming and exploring new ways to make better games.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaderhex" alt="shaderhex" /></a> </p>
 
-## 🔧 Technologies & Tools
-- **Programming Languages**: 
-    - ![C++](https://img.shields.io/badge/-C++-%23A8B9CC?style=flat&logo=c%2B%2B&logoColor=white)
-    - ![Rust](https://img.shields.io/badge/-Rust-%23E57373?style=flat&logo=rust&logoColor=white)
-- **Libraries & Frameworks**: 
-    - ![GLFW](https://img.shields.io/badge/-GLFW-%23000000?style=flat&logo=glfw&logoColor=white)
-    - ![GLAD](https://img.shields.io/badge/-GLAD-%23FFFFFF?style=flat&logo=glad&logoColor=black)
-- **Tools**: 
-    - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
+- 🔭 I’m currently working on [Nitworking](https://github.com/ShaderHex/Nitworking)
 
-## 📂 Featured Projects
-- **[Apptrium](https://github.com/Xethium-Software/Apptrium/)**: I'm working on a software for linux package manager using **Rust** and **GTK4**.
-- **Game Engine (WIP)**: I'm working on a game engine using **C++** and **OpenGL**. It will be open-source once I reach a stable version.
-  
-## 📬 Get in Touch
-- Discord: `.brkt`
-- Feel free to reach out if you'd like to collaborate on game development projects or if you have any questions!
+- 🌱 I’m currently learning **opengl**
 
-Thanks for visiting my GitHub! Let’s connect and build something amazing! 🚀
+- 📫 How to reach me **.brkt on discord**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/nullthepointer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nullthepointer" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaderhex&show_icons=true&locale=en&layout=compact" alt="shaderhex" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaderhex&show_icons=true&locale=en" alt="shaderhex" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaderhex&" alt="shaderhex" /></p>
+
